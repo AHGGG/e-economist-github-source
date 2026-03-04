@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "2026-03-04T00:00:00Z",
+  "sources": [
+    {
+      "source_id": "awesome-english-ebooks-01_economist",
+      "source_type": "reading",
+      "title": "Awesome English Ebooks - Economist",
+      "description": "Weekly Economist EPUB index",
+      "cover_url": null,
+      "supports": ["reading", "sentence_study"],
+      "items_url": "https://raw.githubusercontent.com/AHGGG/e-economist-github-source/refs/heads/master/github-epub-source-index.json"
+    }
+  ]
+}
