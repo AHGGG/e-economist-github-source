@@ -1,0 +1,2895 @@
+{
+  "version": 1,
+  "source_id": "awesome-english-ebooks-02_new_yorker",
+  "title": "Awesome English Ebooks - New Yorker",
+  "description": "New Yorker EPUB index",
+  "updated_at": "2026-03-08T00:00:00Z",
+  "items": [
+    {
+      "item_id": "02_new_yorker/2025.01.06/new_yorker.2025.01.06.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-06",
+      "published_at": "2025-01-06",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.06/new_yorker.2025.01.06.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.01.13/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-13",
+      "published_at": "2025-01-13",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.13/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.01.13/new_yorker.2025.01.13.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-13",
+      "published_at": "2025-01-13",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.13/new_yorker.2025.01.13.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.01.20/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-20",
+      "published_at": "2025-01-20",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.20/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.01.20/new_yorker.2025.01.20.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-20",
+      "published_at": "2025-01-20",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.20/new_yorker.2025.01.20.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.01.27/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-27",
+      "published_at": "2025-01-27",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.27/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.01.27/new_yorker.2025.01.27.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-01-27",
+      "published_at": "2025-01-27",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.01.27/new_yorker.2025.01.27.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.03/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-03",
+      "published_at": "2025-02-03",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.03/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.03/new_yorker.2025.02.03.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-03",
+      "published_at": "2025-02-03",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.03/new_yorker.2025.02.03.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.10/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-10",
+      "published_at": "2025-02-10",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.10/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.10/new_yorker.2025.02.10.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-10",
+      "published_at": "2025-02-10",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.10/new_yorker.2025.02.10.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.17/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-17",
+      "published_at": "2025-02-17",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.17/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.17/new_yorker.2025.02.17.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-17",
+      "published_at": "2025-02-17",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.17/new_yorker.2025.02.17.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.24/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-24",
+      "published_at": "2025-02-24",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.24/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.02.24/new_yorker.2025.02.24.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-02-24",
+      "published_at": "2025-02-24",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.02.24/new_yorker.2025.02.24.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.03/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-03",
+      "published_at": "2025-03-03",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.03/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.03/new_yorker.2025.03.03.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-03",
+      "published_at": "2025-03-03",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.03/new_yorker.2025.03.03.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.10/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-10",
+      "published_at": "2025-03-10",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.10/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.10/new_yorker.2025.03.10.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-10",
+      "published_at": "2025-03-10",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.10/new_yorker.2025.03.10.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.17/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-17",
+      "published_at": "2025-03-17",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.17/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.17/new_yorker.2025.03.17.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-17",
+      "published_at": "2025-03-17",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.17/new_yorker.2025.03.17.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.24/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-24",
+      "published_at": "2025-03-24",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.24/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.24/new_yorker.2025.03.24.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-24",
+      "published_at": "2025-03-24",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.24/new_yorker.2025.03.24.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.31/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-31",
+      "published_at": "2025-03-31",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.31/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.03.31/new_yorker.2025.03.31.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-03-31",
+      "published_at": "2025-03-31",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.03.31/new_yorker.2025.03.31.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.07/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-07",
+      "published_at": "2025-04-07",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.07/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.07/new_yorker.2025.04.07.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-07",
+      "published_at": "2025-04-07",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.07/new_yorker.2025.04.07.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.14/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-14",
+      "published_at": "2025-04-14",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.14/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.14/new_yorker.2025.04.14.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-14",
+      "published_at": "2025-04-14",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.14/new_yorker.2025.04.14.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.21/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-21",
+      "published_at": "2025-04-21",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.21/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.21/new_yorker.2025.04.21.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-21",
+      "published_at": "2025-04-21",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.21/new_yorker.2025.04.21.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.28/new_yorker.2024.12.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-28",
+      "published_at": "2025-04-28",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.28/new_yorker.2024.12.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.04.28/new_yorker.2025.04.28.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-04-28",
+      "published_at": "2025-04-28",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.04.28/new_yorker.2025.04.28.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.05.05/new_yorker.2025.05.05.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-05-05",
+      "published_at": "2025-05-05",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.05.05/new_yorker.2025.05.05.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.05.12/new_yorker.2025.05.12.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-05-12",
+      "published_at": "2025-05-12",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.05.12/new_yorker.2025.05.12.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.05.19/new_yorker.2025.05.19.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-05-19",
+      "published_at": "2025-05-19",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.05.19/new_yorker.2025.05.19.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.05.26/new_yorker.2025.05.26.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-05-26",
+      "published_at": "2025-05-26",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.05.26/new_yorker.2025.05.26.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.06.02/new_yorker.2025.06.02.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-06-02",
+      "published_at": "2025-06-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.06.02/new_yorker.2025.06.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.06.09/new_yorker.2025.06.09.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-06-09",
+      "published_at": "2025-06-09",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.06.09/new_yorker.2025.06.09.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.06.16/new_yorker.2025.06.16.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-06-16",
+      "published_at": "2025-06-16",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.06.16/new_yorker.2025.06.16.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.06.23/new_yorker.2025.06.23.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-06-23",
+      "published_at": "2025-06-23",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.06.23/new_yorker.2025.06.23.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.06.30/new_yorker.2025.06.30.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-06-30",
+      "published_at": "2025-06-30",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.06.30/new_yorker.2025.06.30.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.07.07/new_yorker.2025.07.07.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-07-07",
+      "published_at": "2025-07-07",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.07.07/new_yorker.2025.07.07.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.07.14/new_yorker.2025.07.14.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-07-14",
+      "published_at": "2025-07-14",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.07.14/new_yorker.2025.07.14.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.07.21/new_yorker.2025.07.21.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-07-21",
+      "published_at": "2025-07-21",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.07.21/new_yorker.2025.07.21.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.07.28/new_yorker.2025.07.28.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-07-28",
+      "published_at": "2025-07-28",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.07.28/new_yorker.2025.07.28.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.08.04/new_yorker.2025.08.04.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-08-04",
+      "published_at": "2025-08-04",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.08.04/new_yorker.2025.08.04.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.08.11/new_yorker.2025.08.11.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-08-11",
+      "published_at": "2025-08-11",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.08.11/new_yorker.2025.08.11.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.08.18/new_yorker.2025.08.18.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-08-18",
+      "published_at": "2025-08-18",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.08.18/new_yorker.2025.08.18.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.08.25/new_yorker.2025.08.25.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-08-25",
+      "published_at": "2025-08-25",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.08.25/new_yorker.2025.08.25.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.09.01/new_yorker.2025.09.01.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-09-01",
+      "published_at": "2025-09-01",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.09.01/new_yorker.2025.09.01.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.09.08/new_yorker.2025.09.08.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-09-08",
+      "published_at": "2025-09-08",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.09.08/new_yorker.2025.09.08.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.09.15/new_yorker.2025.09.15.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-09-15",
+      "published_at": "2025-09-15",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.09.15/new_yorker.2025.09.15.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.09.22/new_yorker.2025.09.22.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-09-22",
+      "published_at": "2025-09-22",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.09.22/new_yorker.2025.09.22.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.09.29/new_yorker.2025.09.29.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-09-29",
+      "published_at": "2025-09-29",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.09.29/new_yorker.2025.09.29.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.10.06/new_yorker.2025.10.06.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-10-06",
+      "published_at": "2025-10-06",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.10.06/new_yorker.2025.10.06.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.10.13/new_yorker.2025.10.13.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-10-13",
+      "published_at": "2025-10-13",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.10.13/new_yorker.2025.10.13.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.10.20/new_yorker.2025.10.20.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-10-20",
+      "published_at": "2025-10-20",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.10.20/new_yorker.2025.10.20.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.10.27/new_yorker.2025.10.27.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-10-27",
+      "published_at": "2025-10-27",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.10.27/new_yorker.2025.10.27.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.11.03/new_yorker.2025.11.03.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-11-03",
+      "published_at": "2025-11-03",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.11.03/new_yorker.2025.11.03.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.11.10/new_yorker.2025.11.10.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-11-10",
+      "published_at": "2025-11-10",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.11.10/new_yorker.2025.11.10.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.11.17/new_yorker.2025.11.17.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-11-17",
+      "published_at": "2025-11-17",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.11.17/new_yorker.2025.11.17.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.11.24/new_yorker.2025.11.24.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-11-24",
+      "published_at": "2025-11-24",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.11.24/new_yorker.2025.11.24.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.12.01/new_yorker.2025.12.01.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-12-01",
+      "published_at": "2025-12-01",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.12.01/new_yorker.2025.12.01.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.12.08/new_yorker.2025.12.08.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-12-08",
+      "published_at": "2025-12-08",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.12.08/new_yorker.2025.12.08.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.12.15/new_yorker.2025.12.15.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-12-15",
+      "published_at": "2025-12-15",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.12.15/new_yorker.2025.12.15.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.12.22/new_yorker.2025.12.22.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-12-22",
+      "published_at": "2025-12-22",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.12.22/new_yorker.2025.12.22.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2025.12.29/new_yorker.2025.12.29.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2025-12-29",
+      "published_at": "2025-12-29",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2025.12.29/new_yorker.2025.12.29.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.01.05/new_yorker.2026.01.05.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-01-05",
+      "published_at": "2026-01-05",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.01.05/new_yorker.2026.01.05.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.01.12/new_yorker.2026.01.12.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-01-12",
+      "published_at": "2026-01-12",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.01.12/new_yorker.2026.01.12.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.01.19/new_yorker.2026.01.19.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-01-19",
+      "published_at": "2026-01-19",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.01.19/new_yorker.2026.01.19.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.01.26/new_yorker.2026.01.26.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-01-26",
+      "published_at": "2026-01-26",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.01.26/new_yorker.2026.01.26.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.02.02/new_yorker.2026.02.02.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-02-02",
+      "published_at": "2026-02-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.02.02/new_yorker.2026.02.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.02.09/new_yorker.2026.02.09.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-02-09",
+      "published_at": "2026-02-09",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.02.09/new_yorker.2026.02.09.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.02.16/new_yorker.2026.02.16.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-02-16",
+      "published_at": "2026-02-16",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.02.16/new_yorker.2026.02.16.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.02.23/new_yorker.2026.02.23.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-02-23",
+      "published_at": "2026-02-23",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.02.23/new_yorker.2026.02.23.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.03.02/new_yorker.2026.03.02.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-03-02",
+      "published_at": "2026-03-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.03.02/new_yorker.2026.03.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "02_new_yorker/2026.03.09/new_yorker.2026.03.09.epub",
+      "item_type": "book",
+      "title": "The New Yorker 2026-03-09",
+      "published_at": "2026-03-09",
+      "cover_url": null,
+      "summary": null,
+      "author": "The New Yorker",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": true,
+      "tags": [
+        "new_yorker",
+        "magazine",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/02_new_yorker/2026.03.09/new_yorker.2026.03.09.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    }
+  ]
+}
