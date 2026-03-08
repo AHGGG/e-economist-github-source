@@ -8,7 +8,10 @@
       "title": "Awesome English Ebooks - Economist",
       "description": "Weekly Economist EPUB index",
       "cover_url": null,
-      "supports": ["reading", "sentence_study"],
+      "supports": [
+        "reading",
+        "sentence_study"
+      ],
       "items_url": "https://raw.githubusercontent.com/AHGGG/e-economist-github-source/refs/heads/master/source-awesome-english-ebooks-01_economist.json"
     },
     {
@@ -17,8 +20,35 @@
       "title": "Awesome English Ebooks - New Yorker",
       "description": "New Yorker EPUB index",
       "cover_url": null,
-      "supports": ["reading", "sentence_study"],
+      "supports": [
+        "reading",
+        "sentence_study"
+      ],
       "items_url": "https://raw.githubusercontent.com/AHGGG/e-economist-github-source/refs/heads/master/source-awesome-english-ebooks-02_new_yorker.json"
+    },
+    {
+      "source_id": "awesome-english-ebooks-04_atlantic",
+      "source_type": "reading",
+      "title": "Awesome English Ebooks - Atlantic",
+      "description": "Atlantic EPUB index",
+      "cover_url": null,
+      "supports": [
+        "reading",
+        "sentence_study"
+      ],
+      "items_url": "https://raw.githubusercontent.com/AHGGG/e-economist-github-source/refs/heads/master/source-awesome-english-ebooks-04_atlantic.json"
+    },
+    {
+      "source_id": "awesome-english-ebooks-05_wired",
+      "source_type": "reading",
+      "title": "Awesome English Ebooks - Wired",
+      "description": "Wired EPUB index",
+      "cover_url": null,
+      "supports": [
+        "reading",
+        "sentence_study"
+      ],
+      "items_url": "https://raw.githubusercontent.com/AHGGG/e-economist-github-source/refs/heads/master/source-awesome-english-ebooks-05_wired.json"
     }
   ]
 }

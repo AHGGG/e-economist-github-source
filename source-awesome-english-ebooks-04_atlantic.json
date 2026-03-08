@@ -1,0 +1,564 @@
+{
+  "version": 1,
+  "source_id": "awesome-english-ebooks-04_atlantic",
+  "title": "Awesome English Ebooks - Atlantic",
+  "description": "Atlantic EPUB index",
+  "updated_at": "2026-03-08T00:00:00Z",
+  "items": [
+    {
+      "item_id": "04_atlantic/2025.01.02/Atlantic_2025.01.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-01-02",
+      "published_at": "2025-01-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.01.02/Atlantic_2025.01.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.02.02/Atlantic_2025.02.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-02-02",
+      "published_at": "2025-02-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.02.02/Atlantic_2025.02.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.03.02/Atlantic_2025.03.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-03-02",
+      "published_at": "2025-03-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.03.02/Atlantic_2025.03.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.04.02/Atlantic_2025.04.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-04-02",
+      "published_at": "2025-04-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.04.02/Atlantic_2025.04.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.05.02/Atlantic_2025.05.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-05-02",
+      "published_at": "2025-05-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.05.02/Atlantic_2025.05.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.06.02/Atlantic_2025.06.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-06-02",
+      "published_at": "2025-06-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.06.02/Atlantic_2025.06.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.07.02/Atlantic_2025.07.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-07-02",
+      "published_at": "2025-07-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.07.02/Atlantic_2025.07.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.08.02/Atlantic_2025.08.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-08-02",
+      "published_at": "2025-08-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.08.02/Atlantic_2025.08.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.09.02/Atlantic_2025.09.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-09-02",
+      "published_at": "2025-09-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.09.02/Atlantic_2025.09.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.10.02/Atlantic_2025.10.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-10-02",
+      "published_at": "2025-10-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.10.02/Atlantic_2025.10.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.11.02/Atlantic_2025.11.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-11-02",
+      "published_at": "2025-11-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.11.02/Atlantic_2025.11.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2025.12.02/Atlantic_2025.12.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2025-12-02",
+      "published_at": "2025-12-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2025",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2025.12.02/Atlantic_2025.12.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2026.01.02/Atlantic_2026.01.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2026-01-02",
+      "published_at": "2026-01-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2026.01.02/Atlantic_2026.01.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2026.02.02/Atlantic_2026.02.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2026-02-02",
+      "published_at": "2026-02-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2026.02.02/Atlantic_2026.02.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "04_atlantic/2026.03.02/Atlantic_2026.03.02.epub",
+      "item_type": "book",
+      "title": "The Atlantic 2026-03-02",
+      "published_at": "2026-03-02",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Atlantic",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": true,
+      "tags": [
+        "atlantic",
+        "magazine",
+        "monthly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/04_atlantic/2026.03.02/Atlantic_2026.03.02.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    }
+  ]
+}
