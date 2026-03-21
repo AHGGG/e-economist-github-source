@@ -3,7 +3,7 @@
   "source_id": "awesome-english-ebooks-01_economist",
   "title": "Awesome English Ebooks - Economist",
   "description": "Weekly Economist EPUB index",
-  "updated_at": "2026-03-01T03:18:24Z",
+  "updated_at": "2026-03-21T01:41:53Z",
   "items": [
     {
       "item_id": "01_economist/te_2025.01.04/TheEconomist.2025.01.04.epub",
@@ -2175,7 +2175,7 @@
       "author": "The Economist",
       "lang": "en",
       "collection_id": "2026",
-      "is_latest": true,
+      "is_latest": false,
       "tags": [
         "economist",
         "weekly"
@@ -2187,6 +2187,114 @@
             "kind": "document",
             "mime": "application/epub+zip",
             "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/01_economist/te_2026.02.28/TheEconomist.2026.02.28.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "01_economist/te_2026.03.07/TheEconomist.2026.03.07.epub",
+      "item_type": "book",
+      "title": "The Economist 2026-03-07",
+      "published_at": "2026-03-07",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Economist",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "economist",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/01_economist/te_2026.03.07/TheEconomist.2026.03.07.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "01_economist/te_2026.03.14/TheEconomist.2026.03.14.epub",
+      "item_type": "book",
+      "title": "The Economist 2026-03-14",
+      "published_at": "2026-03-14",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Economist",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": false,
+      "tags": [
+        "economist",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/01_economist/te_2026.03.14/TheEconomist.2026.03.14.epub",
+            "size_bytes": null,
+            "checksum": null
+          }
+        ]
+      },
+      "mode_capabilities": {
+        "reading": "native",
+        "sentence_study": "derivable",
+        "podcast_normal": "unsupported",
+        "podcast_intensive": "unsupported",
+        "audiobook_casual": "unsupported",
+        "audiobook_timeline": "unsupported"
+      }
+    },
+    {
+      "item_id": "01_economist/te_2026.03.21/TheEconomist.2026.03.21.epub",
+      "item_type": "book",
+      "title": "The Economist 2026-03-21",
+      "published_at": "2026-03-21",
+      "cover_url": null,
+      "summary": null,
+      "author": "The Economist",
+      "lang": "en",
+      "collection_id": "2026",
+      "is_latest": true,
+      "tags": [
+        "economist",
+        "weekly"
+      ],
+      "resources": {
+        "native": [
+          {
+            "resource_id": "res_epub_main",
+            "kind": "document",
+            "mime": "application/epub+zip",
+            "download_url": "https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/refs/heads/master/01_economist/te_2026.03.21/TheEconomist.2026.03.21.epub",
             "size_bytes": null,
             "checksum": null
           }
